@@ -35,12 +35,9 @@ A powerful Streamlit-based chatbot that combines OpenAI's GPT models with real-t
    ```
 
 2. **Install dependencies:**
+   uv (recommended):
    ```bash
-   pip install -r requirements.txt
-   ```
-   
-   Or using uv (recommended):
-   ```bash
+   pip install uv
    uv sync
    ```
 
