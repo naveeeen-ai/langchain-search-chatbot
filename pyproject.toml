@@ -1,0 +1,15 @@
+[project]
+name = "lang"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckduckgo-search>=8.0.4",
+    "huggingface-hub>=0.33.1",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.26",
+    "langchain-openai",
+    "streamlit>=1.46.1",
+]
